@@ -76,7 +76,7 @@
             <mxPoint x="760" y="509.62" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="AK0gqgWrLcNRRVNfMQMm-17" value="CSPSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="AK0gqgWrLcNRRVNfMQMm-17" value="C2PSA" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#008a00;strokeColor=#005700;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="120" y="500" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="AK0gqgWrLcNRRVNfMQMm-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AK0gqgWrLcNRRVNfMQMm-18" target="AK0gqgWrLcNRRVNfMQMm-20">
